@@ -4,7 +4,7 @@
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://arshadshah.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/arshadshah)
-![wakatime](https://wakatime.com/badge/user/d3ee9a6a-1937-4da7-8f59-2aae5945b260.svg)(https://wakatime.com/@d3ee9a6a-1937-4da7-8f59-2aae5945b260)
+[![wakatime](https://wakatime.com/badge/user/d3ee9a6a-1937-4da7-8f59-2aae5945b260.svg)](https://wakatime.com/@d3ee9a6a-1937-4da7-8f59-2aae5945b260)
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=arshad-shah.arshad-shah)
 
 ---

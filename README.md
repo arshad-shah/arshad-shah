@@ -9,7 +9,7 @@
 
 ---
 
-🔭 I’m currently working on a chat app in react, using firebase realtime database
+🔭 I’m currently learning end 2 end testing in react.
 
 - 🌱 I’m currently learning react
 - 📫 How to reach me: shaharshad1999@outlook.com

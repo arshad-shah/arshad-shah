@@ -22,4 +22,4 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arshad-shah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Arshad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arshad-shah)](https://github.com/anuraghazra/github-readme-stats)
+[![Arshad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@arshadshah)](https://github.com/anuraghazra/github-readme-stats)

@@ -5,7 +5,8 @@
 [![Website Badge](https://img.shields.io/badge/website-ED8B00?style=for-the-badge&logo=About.me&logoColor=white)](https://arshadshah.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arshadshah)
 
-### Glad to see you here! &nbsp; ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=arshad-shah.arshad-shah)
+### Glad to see you here! &nbsp; 
+![visitor badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=arshad-shah.arshad-shah&color=ED8B00&style=for-the-badge&logo=Github&text=Visitor)
 
 [![wakatime](https://wakatime.com/badge/user/d3ee9a6a-1937-4da7-8f59-2aae5945b260.svg)](https://wakatime.com/@d3ee9a6a-1937-4da7-8f59-2aae5945b260)
 
@@ -13,10 +14,10 @@
 🔭 I’m currently learning end 2 end testing in react.
 
 - 🌱 I’m currently learning react
-- 📫 How to reach me: shaharshad1999@outlook.com
+- 📫 How to reach me: info@arshadshah.com
 
 
-# Some of the tech i work with
+# Some of the tech I work with
 
 ## Languages
 
@@ -50,6 +51,7 @@
 ![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
+![](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
 
 
 ## Platforms
@@ -58,9 +60,9 @@
 
 ## ML/DL
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 
 ## Testing Framework

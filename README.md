@@ -14,7 +14,7 @@
 🔭 I’m currently learning end 2 end testing in react.
 
 - 🌱 I’m currently learning react
-- 📫 How to reach me: info@arshadshah.com
+- 📫 How to reach me: arshad@arshadshah.com
 
 
 # Some of the tech I work with

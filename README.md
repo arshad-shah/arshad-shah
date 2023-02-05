@@ -5,8 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/website-ED8B00?style=for-the-badge&logo=About.me&logoColor=white)](https://arshadshah.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arshadshah)
 
-### Glad to see you here! &nbsp; 
-![visitor badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=arshad-shah.arshad-shah&color=ED8B00&style=for-the-badge&logo=Github&text=Visitor)
+### Glad to see you here! &nbsp;
 
 [![wakatime](https://wakatime.com/badge/user/d3ee9a6a-1937-4da7-8f59-2aae5945b260.svg)](https://wakatime.com/@d3ee9a6a-1937-4da7-8f59-2aae5945b260)
 

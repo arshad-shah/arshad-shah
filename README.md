@@ -10,6 +10,9 @@
 [![wakatime](https://wakatime.com/badge/user/d3ee9a6a-1937-4da7-8f59-2aae5945b260.svg)](https://wakatime.com/@d3ee9a6a-1937-4da7-8f59-2aae5945b260)
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=arshad-shah&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 🔭 I’m currently learning end 2 end testing in react.
 
 - 🌱 I’m currently learning react

@@ -142,4 +142,4 @@
 
 ![repo stats](https://github-readme-stats.vercel.app/api?username=arshad-shah)
 
-![languages used in repos](https://github-readme-stats.vercel.app/api/top-langs/?username=arshad-shah)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arshad-shah)](https://github.com/anuraghazra/github-readme-stats)
